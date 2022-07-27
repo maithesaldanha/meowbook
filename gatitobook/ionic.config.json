@@ -1,0 +1,8 @@
+{
+  "name": "Gatitobook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "27cbedb2"
+}
